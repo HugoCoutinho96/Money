@@ -1,20 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2022-07-29T19:36:44.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2022-07-29T19:30:44.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": "4569",
+      "description": "Kombi",
+      "type": "income",
+      "category": "Automovel",
+      "price": 21000,
+      "createdAt": "2025-02-28T21:10:15.048Z"
+    },
+    {
+      "id": "95b8",
+      "description": "Siena",
+      "type": "outcome",
+      "category": "Automovel",
+      "price": 30000,
+      "createdAt": "2025-02-28T22:53:36.003Z"
+    },
+    {
+      "id": "85d1",
+      "description": "Golf",
+      "type": "outcome",
+      "category": "Automovel",
+      "price": 40500,
+      "createdAt": "2025-02-28T23:00:34.435Z"
+    }
+  ]
 }
